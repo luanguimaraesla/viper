@@ -1,4 +1,4 @@
-module github.com/gbunt/viper
+module github.com/luanguimaraesla/viper
 
 go 1.12
 
